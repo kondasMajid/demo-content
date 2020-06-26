@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.2" created="2020-06-26 12:19" -->
+	<!-- generator="WordPress/5.4.2" created="2020-06-26 14:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>E-commerce</title>
 	<link>https://fireflythemes.com/demo/ff-multipurpose-ecommerce</link>
 	<description></description>
-	<pubDate>Fri, 26 Jun 2020 12:19:45 +0000</pubDate>
+	<pubDate>Fri, 26 Jun 2020 14:23:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://fireflythemes.com/demo/</wp:base_site_url>
 	<wp:base_blog_url>https://fireflythemes.com/demo/ff-multipurpose-ecommerce</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@fireflythemes.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@example.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
@@ -6174,7 +6174,7 @@
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[fireflythemes]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[info@fireflythemes.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[info@example.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[103.124.98.215]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-06-21 09:37:33]]></wp:comment_date>
@@ -6192,7 +6192,7 @@
 					<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[fireflythemes]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[info@fireflythemes.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[info@example.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[103.124.98.215]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-06-21 09:38:39]]></wp:comment_date>
@@ -6558,7 +6558,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[fireflythemes]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[info@fireflythemes.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[info@example.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[103.124.96.149]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-06-25 07:20:15]]></wp:comment_date>
@@ -7260,7 +7260,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 1
 Versatile Business Pro "[your-subject]"
 Versatile Business Pro <info@example.com>
-info@example.com>
+info@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -7398,7 +7398,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 1
 FF Multipurpose Pro "[your-subject]"
 FF Multipurpose Pro <info@example.com>
-info@example.com>
+info@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
