@@ -35,7 +35,7 @@
 	<wp:base_site_url>http://fireflythemes.com/demo/</wp:base_site_url>
 	<wp:base_blog_url>https://fireflythemes.com/demo/versatile-business-pro</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@fireflythemes.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@example.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
